@@ -1,23 +1,14 @@
 {
     "name": "swonzhang/resource-rbac",
-    "description": "基于资源的rbac权限模型",
+    "description": "base on autj",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "swonzhang",
             "email": "zhangxw3813@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.6.3"
-    },
-    "keywords": [
-   		"swon"
-    ],
-    "license": "MIT",
-    "autoload": {
-        "psr-0": {
-            "ResourceRbac": "src"
-        }
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
